@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: job-ai
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/status
+    envVars:
+      - key: TINYFISH_API_KEY
+        sync: false
