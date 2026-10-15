@@ -1,4 +1,4 @@
-# JobScout AI — AI-Powered Job & Internship Finder Using TinyFish
+# JOB.AI — AI-Powered Job & Internship Finder Using TinyFish
 
 > Built for the **TinyFish × TechnoJam Challenge at Galgotias University**.  
 > Aesthetic UI inspired by the quiet luxury, dark atmosphere, and refined typography of [Orchid.ai](https://orchid.ai).
