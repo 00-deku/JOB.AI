@@ -1,0 +1,20 @@
+{
+  "name": "jobscout-ai",
+  "version": "1.0.0",
+  "description": "JobScout AI — AI-Powered Job and Internship Finder Using TinyFish for the TinyFish × TechnoJam Challenge at Galgotias University",
+  "scripts": {
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && python -m uvicorn app.main:app --reload --port 8000",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "tinyfish",
+    "fastapi",
+    "react",
+    "job-finder",
+    "hackathon",
+    "galgotias-university"
+  ],
+  "author": "TechnoJam Team",
+  "license": "MIT"
+}

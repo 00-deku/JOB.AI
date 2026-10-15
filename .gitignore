@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.env
+.venv/
+venv/
+ENV/
+*.db
+*.sqlite3
+jobscout.db
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.npm
+package-lock.json
+
+# IDEs & System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

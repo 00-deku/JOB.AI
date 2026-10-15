@@ -1,0 +1,1 @@
+"""JobScout AI Services Package"""
